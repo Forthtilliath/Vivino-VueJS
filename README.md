@@ -22,6 +22,8 @@ Je n'ai pas apporté de réelles améliorations au projet. De simple améliorati
 
 Ce fut une bonne mise en pratique de ce que j'avais appris dans une vidéo ultérieure. Ca m'a aussi permis de voir comment interagir VueJs avec une base de donnée MySQL.
 
+J'ai aussi pu découvrir Axios qui est bien plus léger que Jquery.
+
 # Screenshots du résultat
 
 ![Home](/screenshots/home.png)
