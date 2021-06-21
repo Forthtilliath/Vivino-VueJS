@@ -309,7 +309,7 @@
     opacity: 1;
     transition: .8s;
   }
-  &-enter, &-leave {
+  &-enter, &-leave-to {
     opacity:0;
     transition: .1s;
   }

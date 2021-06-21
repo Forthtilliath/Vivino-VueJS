@@ -326,7 +326,7 @@ i {
   opacity: 1;
   transition: 0.8s;
 }
-.item-anim-enter, .item-anim-leave {
+.item-anim-enter, .item-anim-leave-to {
   opacity: 0;
   transition: 0.1s;
 }
